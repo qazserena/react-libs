@@ -1,5 +1,5 @@
 {
-  "name": "react-libs-polygon",
+  "name": "@brilljoy/react-libs",
   "version": "0.4.0",
   "module": "./libs/index.js",
   "types": "./libs/index.d.ts",
