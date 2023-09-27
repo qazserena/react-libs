@@ -1,0 +1,30 @@
+{
+  "name": "react-libs-workspace",
+  "version": "1.0.0",
+  "description": "react-libs工作区项目",
+  "main": "index.js",
+  "workspaces": [
+    "library",
+    "example"
+  ],
+  "engines": {
+    "node": ">=16.14.2",
+    "npm": ">=8.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@10.0.80.33:corp/react-libs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
